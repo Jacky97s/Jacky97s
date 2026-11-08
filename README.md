@@ -6,17 +6,28 @@
 </p>
 
 <p align="center">
-  <b>SDET / Full-Stack Developer from Taiwan</b><br/>
-  <i>Building quality into every layer — from automated tests to shipped products.</i>
+  <b>Test Automation Lead · Based in Taiwan · Open to remote</b><br/>
+  <i>I build tools that make AI agents and test suites prove their claims.</i>
 </p>
 
 ---
 
 ### About me
 
-- SDET by day — designing test automation frameworks, CI/CD pipelines, and quality strategies across web, APIs, and IoT devices
-- Full-stack builder by night — shipping side projects from zero to production
-- Passionate about AI-driven testing, developer tooling, and workflow automation
+- Test Automation Lead: I design test frameworks, CI pipelines, and real-device test rigs for web, APIs, and IoT
+- Currently building developer tools for AI agents: making them verify their own work instead of just claiming it
+- I like turning a rough idea into something that runs in production, then measuring whether it actually works
+
+---
+
+### Featured projects
+
+| Project | What it does |
+|---------|--------------|
+| [**qstack**](https://github.com/Jacky97s/qstack) | A quality-engineering mode for AI agents. Tests are claims, and qstack makes the agent prove them. |
+| [**agent-panel**](https://github.com/Jacky97s/agent-panel) | Embed an agent panel in any app and connect Claude Code, Codex, or a local AI agent to complete tasks. Demos: [bread-book](https://github.com/Jacky97s/agent-panel-bread-book), [portfolio](https://github.com/Jacky97s/agent-panel-portfolio), [trip-board](https://github.com/Jacky97s/agent-panel-trip-board). |
+| [**pytest-synapse**](https://github.com/Jacky97s/pytest-synapse) | A pytest plugin that measures how well a test suite covers an OpenAPI spec by intercepting HTTP traffic, with zero test-code changes. |
+| [**bambu-account**](https://github.com/Jacky97s/bambu-account) | Quickly switch Bambu Lab accounts in Bambu Studio on macOS. |
 
 ---
 
@@ -95,20 +106,6 @@
 | **AI-Powered QA** | LLM-driven browser automation, AI code review, RAG for knowledge management |
 | **Full-Stack Development** | Vue / Next.js / FastAPI side projects, from idea to deploy |
 | **Workflow Automation** | n8n, Jira/GitLab sync, reporting pipelines |
-
----
-
-### Open Source
-
-- [**pytest-synapse**](https://github.com/Jacky97s/pytest-synapse) — a pytest plugin that measures how well a test suite covers an OpenAPI spec by transparently intercepting HTTP traffic — zero test-code changes.
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jacky97s&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
