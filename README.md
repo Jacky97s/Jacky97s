@@ -26,7 +26,6 @@
 | Project | What it does |
 |---------|--------------|
 | [**qstack**](https://github.com/Jacky97s/qstack) | A quality-engineering mode for AI agents. Tests are claims, and qstack makes the agent prove them. |
-| [**agent-panel**](https://github.com/Jacky97s/agent-panel) | Embed an agent panel in any app and connect Claude Code, Codex, or a local AI agent to complete tasks. Demos: [bread-book](https://github.com/Jacky97s/agent-panel-bread-book), [portfolio](https://github.com/Jacky97s/agent-panel-portfolio), [trip-board](https://github.com/Jacky97s/agent-panel-trip-board). |
 | [**pytest-synapse**](https://github.com/Jacky97s/pytest-synapse) | A pytest plugin that measures how well a test suite covers an OpenAPI spec by intercepting HTTP traffic, with zero test-code changes. |
 | [**bambu-account**](https://github.com/Jacky97s/bambu-account) | Quickly switch Bambu Lab accounts in Bambu Studio on macOS. |
 
